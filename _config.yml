@@ -1,0 +1,69 @@
+# Site
+name: 'LearnBolts'
+description: 'Your journey to learning just got closer'
+logo: 'assets/images/logo1.png'
+favicon: 'assets/images/favicon1.ico'
+baseurl: '/learnbolts'
+disqus: 'demowebsite'
+email: 'elishadamu97@gmail.com'
+mailchimp-list: 'https://gmail.us8.list-manage.com/about?u=f5b50f097de3aa95d2a288c84&id=2e40456faa'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    sal:
+      name:           Sal
+      site:           https://www.upwork.com/freelancers/~01f347888f7198ba97
+      avatar:         /assets/images/IMG_20201011_104505_0.jpg
+      bio:            "Hi there! It's Elisha, the author of some posts on LearnBolts Thanks for reading and subscribing 
+                      to my blog. If you haven't subscribed yet, feel free to subscribe to get latest posts about science
+                      and innovations. If there is any job relating to Maths, Web development or PCB design, feel free 
+                      to check my upwork account"
+      email:          elishadamu97@gmail.com
+      linkedin:        https://www.linkedin.com/in/elisha-adamu-505552134/
+
+    jane:
+      name:           Jane
+      site:           https://www.upwork.com/freelancers/~01f347888f7198ba97
+      avatar:         /assets/images/1651316265583.jpg
+      bio:            "Hi, I am Cyrus, the author of some interesting posts about science and mathematics. Feel free to subscribe to get latest posts"
+      email:          adamsfair12@gmail.com
+      linkedin:        https://www.linkedin.com/in/elisha-adamu-505552134/
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/IMG_20201011_104505_0.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 8
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
