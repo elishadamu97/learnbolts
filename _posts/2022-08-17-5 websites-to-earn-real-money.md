@@ -33,7 +33,7 @@ Experts are required to solve the question using colors, Latex and graphic desig
 
 The screening process is quite simple, you will be asked to solve questions based on your expertise and a timer will be set, so you have to answer the questions as fast as possible.
 
-You will earn $30$ bonus when you finish $3$ of the fields, $10$ for each field.
+You will earn $30$ dollars bonus when you finish $3$  of the fields, $10$ dollars for each field.
 
 ![$30 bonus](../assets/images/math-proficiency.jpg)
 

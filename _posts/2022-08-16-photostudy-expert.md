@@ -8,12 +8,12 @@ tags: [work from home]
 
 ---
 
-Hello! Welcome to PieLearn. In this blog, I'm going to show you how u can earn thousands of dollars just by solving  and answering questions on Maths, Physics, Chemistry and Biology.
+Have you been wondering how you can make money solving maths questions? Well in this post am going to work you through on how you can earn money solving questions for student and getting paid.
 
 Photostudy is a platform were education is used as a service. This platform allows people all over the world to signup as an expert in any subject they feel most comfortable with.
 
 Photostudy gives experts the opportunity to earn thousand of dollar simply by solving or answering questions.
-These questions are posted by students and it's expected by experts to solve these question within a maximum time of 10 minutes except the student options for extra minutes
+These questions are posted by students and it's expected by experts to solve these question within a maximum time of 10 minutes except the student options for extra minutes.
 
 Well enough of all the introductions, lets get down to the necessary steps required to become a successful expert.
 ```
@@ -21,7 +21,7 @@ Please don't click on the signup link if you have not read the necessary steps.
 ```
 ### Step 1
 
- [Click here](https://expert.photostudy.co/new-expert/232r3m3gegn494hdo) to signup as an expert.
+Follow the  [link](https://expert.photostudy.co/new-expert/232r3m3gegn494hdo)  to get started....
 
 ### Step 2 
 
