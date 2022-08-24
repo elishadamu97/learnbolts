@@ -15,12 +15,14 @@ Well in this tutorial I will show you how you can uninstall the software or appl
 
 * Click on the window key or Move your mouse to the windows icon and click on it
 * Search for <code>control panel</code>
-* The control panel will be searched
+* Control panel will appear below the windows bar.
+
+
+![Step 1](../assets/images/step1a.jpg)
+
+### STEP 2: Click on the "CONTROL PANEL"
+
 * Click on it to open.
-
-![Step 1](../assets/images/step1.jpg)
-
-### STEP 2: Click on programs on the "CONTROL PANEL" tab
 
 ![step 2](../assets/images/step2.jpg)
 
@@ -29,7 +31,7 @@ Well in this tutorial I will show you how you can uninstall the software or appl
 ![step 3](../assets/images/step3.jpg)
 
 ### STEP 4: Search for the software you want to uninstall
-* If software/application name is not on first screen, stroll down to search for it
+* If software name is not on first screen, stroll down to search for it
 * If found, right click on the Software/Application
 * Uninstall or Repair will appear, click on Uninstall.
 

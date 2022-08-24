@@ -28,15 +28,15 @@ $ax^2\, +bx = -c$
 
 $\frac{ax^2}{a}+\frac{bx}{a} = \frac{-c}{a}$
 
-$ ax^2+\frac{bx}{a} = \frac{-c}{a}$
+$ x^2+\frac{bx}{a} = \frac{-c}{a}$
 
 ##### Step 3: Multiply $\frac{1}{2}$ by $\frac{bx}{a}$
 $\frac{bx}{a}\times \frac{1}{2} = \frac{bx}{2a}$ 
 
 ##### Step 4: Square the result and sum it to both sides
-$ax^2 + \frac{bx}{a} + (\frac{b}{2a})^2 = \frac{-c}{a} + (\frac{b}{2a})^2$
+$x^2 + \frac{bx}{a} + (\frac{b}{2a})^2 = \frac{-c}{a} + (\frac{b}{2a})^2$
 
-$ax^2+\frac{bx}{a} + (\frac{b}{2a})^2 = \frac{-c}{a} + \frac{b^2}{4a^2}$
+$x^2+\frac{bx}{a} + (\frac{b}{2a})^2 = \frac{-c}{a} + \frac{b^2}{4a^2}$
 
 ##### Step 5: Factorize the LHS and find the LCM of the RHS
 1. The LHS = $ (x \,+ \frac{b}{2a})^2$

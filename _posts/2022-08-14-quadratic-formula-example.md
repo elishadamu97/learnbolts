@@ -7,8 +7,7 @@ image: assets/images/tutors-what-is-the-quadratic-formula.jpg
 tags: [maths]
 tags: [featured]
 ---
-
-Hi, welcome to Pielearn. In this tutorial we are are going to use [quadratic formula](../quadratic-formula/) to solve quadratic equations.
+Hi, welcome to [LearnBolts](../index.html). In this tutorial we are are going to use [quadratic formula](../quadratic-formula/) to solve quadratic equations.
 
 $$\color{tan}{x} = \frac{-b\; \pm\sqrt{\color{Orchid}{b^2}\, -\color{red}{4ac}} }{\color{cyan}{2a}}$$
 
