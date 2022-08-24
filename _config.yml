@@ -1,9 +1,9 @@
 # Site
-name: 'LearnBolts'
+name: 'Learn Bolts'
 description: 'Your journey to learning just got closer'
 logo: 'assets/images/logo1.png'
 favicon: 'assets/images/favicon1.ico'
-baseurl: '/learnbolts'
+url: 'learnbolts.com'
 disqus: 'demowebsite'
 email: 'elishadamu97@gmail.com'
 mailchimp-list: 'https://gmail.us8.list-manage.com/about?u=f5b50f097de3aa95d2a288c84&id=2e40456faa'
