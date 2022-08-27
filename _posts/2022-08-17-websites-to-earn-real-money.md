@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 Hot websites to earn $1000 plus monthly - work-from-home, tester, expert, freelancer"
+title:  "5 hot websites to earn $1000 plus monthly - work-from-home, tester, expert, freelancer"
 author: sal
 categories: [blog]
 image: assets/images/earn-money.png

@@ -3,7 +3,7 @@ layout: post
 title:  "How to earn $1000 from solving Questions on Photostudy - Maths, Physics, Chemistry, Work from home"
 author: sal
 categories: [blog]
-image: assets/images/expert.webp
+image: assets/images/download(1).jpg
 tags: [work from home]
 
 ---
