@@ -36,7 +36,7 @@ Signup using a valid facebook account that has been linked  to an email address.
 
 Next you will be asked to a answer 30 question about photostudy policies, and the stipulated number of attempts is maximum of 3.
 
-**You can message me in the [Contact](../photostudy-expert/) section where I can assist you in the questions.**
+**You can message me in the [Contact](../contact.html) section where I can assist you in the questions.**
 
 ### Step 5
 
