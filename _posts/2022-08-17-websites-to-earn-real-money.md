@@ -19,7 +19,7 @@ This is a platform where experts who are confident about their field can apply t
 
 Experts don't need to live their comfort zone, all you need is a laptop, a stable internet connection, and a brain to think fast.
 
-For more information on how to get started, [follow the link](../photomath-expert/)
+For more information on how to get started, [follow the link](../photostudy-expert/)
 
 ## 2. Photomath
 
