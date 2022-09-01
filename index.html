@@ -56,7 +56,7 @@ description: "A website to learn science and read innovative blogs"
                 <a href="{{site.baseurl}}{{second_post.url}}">
                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
 
-                <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.url}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
+                <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
