@@ -1,0 +1,164 @@
+I"<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Jane <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://www.linkedin.com/in/elisha-adamu-505552134/">Connect</a></span></h2>
+                <p><a href="https://www.upwork.com/freelancers/~01f347888f7198ba97">https://www.upwork.com/freelancers/~01f347888f7198ba97</a></p>
+                <p class="excerpt">Hi, I am Cyrus, the author of some interesting posts about science and mathematics. Feel free to subscribe to get latest posts</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="Jane" src="//assets/images/1651316265583.jpg" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Jane</span></h4>
+            
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/fun-facts-about-solar/">Top 5 Things You Didn't Know About Solar Energy - Green energy, NASA</a>
+	</h2>
+	<p class="excerpt">
+	   Solar panels as we have heard of is simply a bluish electronic device that collects photons from the sun and converts it into electrical energy.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#blog">blog</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 15, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/fun-facts-about-solar/">
+	<img class="w-100" src="/assets/images/solarpanel.jpg" alt="Top 5 Things You Didn't Know About Solar Energy - Green energy, NASA" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/solar-generator/">DIY solar generator</a>
+	</h2>
+	<p class="excerpt">
+	   For us to make electricity using the sun, we would have to get a mini solar panel, a mini battery and a light bulb to utilize the energy from the sun.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#do it yourself">do it yourself</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Aug 14, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/solar-generator/">
+	<img class="w-100" src="/assets/images/solar_power_illustration.png" alt="DIY solar generator" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/we-all-wait-for-summer/">We all wait for summer</a>
+	</h2>
+	<p class="excerpt">
+	   This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Mos...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 28, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/we-all-wait-for-summer/">
+	<img class="w-100" src="/assets/images/1.jpg" alt="We all wait for summer" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/options-for-creating-new-site-with-jekyll/">How to open a new folder</a>
+	</h2>
+	<p class="excerpt">
+	   jekyll new &lt;PATH&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called myblog. Here are...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#technology tutorial">Technology tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 23, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/options-for-creating-new-site-with-jekyll/">
+	<img class="w-100" src="/assets/images/13.jpg" alt="How to open a new folder" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/customer-service/">What is Jekyll</a>
+	</h2>
+	<p class="excerpt">
+	   No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML &amp; CSS go in. Static sites come out ready for deployment. Permalinks, c...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 18, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/customer-service/">
+	<img class="w-100" src="/assets/images/11.jpg" alt="What is Jekyll" />
+	</a>
+	</div>
+
+</div>
+            
+    </div>
+</div>
+</div>
+:ET

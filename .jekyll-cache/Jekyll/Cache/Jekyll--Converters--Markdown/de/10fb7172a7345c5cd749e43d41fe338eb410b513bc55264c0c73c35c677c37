@@ -1,0 +1,30 @@
+I"(<p>In this tutorial, we are going to give 7 steps on how to extract a ZIP file and save the content(s) in your laptop.</p>
+
+<p>To do this, readers are adviced to follow carefully the steps needed to extract and save the file(s)</p>
+<h1 id="1-find-the-zip-file">1. Find the zip file</h1>
+<p>To extract the file inside the zip file, we first explore the location of the zip within our pc.
+!<img src="../assets/images/ziplocation2.jpg" alt="zip-location" /></p>
+
+<h1 id="2-open-the-zip-file">2. Open the zip file</h1>
+<p>After locating the zip, click on <code class="language-plaintext highlighter-rouge">enter</code> on the keyboard to open the zip file.</p>
+<h1 id="3-close-the-popped-up-options">3. Close the popped up options</h1>
+<p>After opening the zip file, there will be a popped up option, click on the close button.
+<img src="../assets/images/close.jpg" alt="close message" />.</p>
+<h1 id="4-select-files">4. Select file(s)</h1>
+<p>Select the file(s) you want to extract in the zip file.
+<img src="../assets/images/selectfile.jpg" alt="select file" /></p>
+<h1 id="5-extract-the-zip-content">5. Extract the zip content</h1>
+<p>Click on <code class="language-plaintext highlighter-rouge">extract to</code>, to extract the file, a select option will appear on the right side of the screen.
+<img src="../assets/images/extract.jpg" alt="extract" /></p>
+<h1 id="6-select-file-location">6. Select file location</h1>
+<p>After clicking on <code class="language-plaintext highlighter-rouge">extract to</code>, select the location you want your file.
+Choose a location and click on the <code class="language-plaintext highlighter-rouge">OK</code> button to save the file.
+For the picture below, <code class="language-plaintext highlighter-rouge">desktop</code> was selected.
+<img src="../assets/images/desktop.jpg" alt="desktop" /></p>
+<h1 id="7-locate-the-file">7. Locate the file</h1>
+<p>You can now locate the file in the desktop.</p>
+<blockquote>
+  <p>Note: You can save the file anywhere in your pc.
+<img src="../assets/images/ziplocation1.jpg" alt="file-location" /></p>
+</blockquote>
+:ET

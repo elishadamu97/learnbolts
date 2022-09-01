@@ -1,0 +1,61 @@
+I"�<p>What is a quadratic equation?</p>
+
+<p>A <b>quadratic equation</b> is a second degree equation, that comprises of:</p>
+<ol>
+  <li>Variables</li>
+  <li>Constants</li>
+</ol>
+
+<p>These variables are unknown values that can be gotten using different methods such as:</p>
+<ol>
+  <li><a href="https://www.cuemath.com/algebra/factorization-of-quadratic-equations/#:~:text=Steps%20to%20factorize%20quadratic%20equation,%2B%20c%2Fa%20%3D%200.">Factorization method</a>.</li>
+  <li><a href="../completing-the-square">Completing the square method</a></li>
+  <li><a href="https://www.nagwa.com/en/explainers/612170817959/">Graphical method</a></li>
+  <li><a href="../quadratic-formula/">Quadratic formula method</a>.</li>
+</ol>
+
+<p>A constant is a natural number or a whole number that never changes in expression, it remains the same regardless.</p>
+
+<p>The standard form for quadratic equations is</p>
+
+<p>[ax^2 + bx +c = 0]</p>
+
+<ul>
+  <li>Where $ a, b, c$ are known values and $a \neq 0$.</li>
+  <li>$x = $   unknown value</li>
+</ul>
+
+<p>If  $a =  0$ the equation is a linear equation and not quadratic</p>
+
+<p><b>Prove:</b></p>
+
+<p>Using the standard equation.</p>
+
+<p>$ax^2 + bx +c = 0$ ——  $equation \,(1)$</p>
+
+<p>If    $a =  0$</p>
+
+<p>Substitute   $a =  0$ into $equation \,(1)$</p>
+
+<p>$(0)x^2 + bx +c = 0$</p>
+
+<p>0 will multiply $x^2 $</p>
+
+<p>The equation will be</p>
+
+<p>$ bx +c = 0$ ——- $equation (2)$</p>
+
+<p>A standard linear equation is <b>$Ax+By = C$</b></p>
+
+<p>By comparing $equation (2)$ with the standard linear equation</p>
+
+<p>This proves why $a =  0$ cannot be a quadratic equation.</p>
+
+<p>Examples of quadratic equations are:</p>
+
+<ul>
+  <li>$6x^2\,+ 11x-35 = 0 $</li>
+  <li>$x^2\, - 5x-14 = 0 $</li>
+  <li>$2x^2\, -7x-15 = 0 $</li>
+</ul>
+:ET
