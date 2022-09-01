@@ -1,4 +1,4 @@
-I"<div class="container">
+I"<div class="container">
 <div class="row justify-content-center">
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
@@ -8,7 +8,7 @@
                 <p class="excerpt">Hi, I am Cyrus, the author of some interesting posts about science and mathematics. Feel free to subscribe to get latest posts</p>
             </div>
             <div class="col-md-3 text-right">
-                <img alt="Jane" src="//assets/images/1651316265583.jpg" class="rounded-circle" height="100" width="100" />
+                <img alt="Jane" src="..//assets/images/1651316265583.jpg" class="rounded-circle" height="100" width="100" />
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by Jane</span></h4>
