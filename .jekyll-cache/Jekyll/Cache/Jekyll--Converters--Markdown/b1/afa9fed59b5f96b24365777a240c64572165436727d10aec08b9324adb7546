@@ -1,4 +1,4 @@
-I"1$<div class="container">
+I"5$<div class="container">
     
 {% if page.url == "/" %}
     
@@ -45,7 +45,8 @@
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 &lt;img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.url}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}"&gt;
+
+                &lt;img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                

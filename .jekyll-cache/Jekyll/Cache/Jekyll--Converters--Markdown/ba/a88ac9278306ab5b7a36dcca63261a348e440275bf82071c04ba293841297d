@@ -1,4 +1,4 @@
-I"ÿ
+I"Ù
 <div class="container">
 <h4 class="font-weight-bold spanborder"><span>Authors</span></h4>
     <div class="row gap-y listrecent listrecent listauthor">
@@ -6,7 +6,7 @@
         <div class="col-lg-6 mb-4">
             <div class="p-4 border rounded">
             <div class="row">
-            <div class="col-md-3 mb-4 mb-md-0"><img alt="Sal" src="http://localhost:4000//assets/images/IMG_20201011_104505_0.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Sal" src="..//assets/images/IMG_20201011_104505_0.jpg" class="rounded-circle" height="80" width="80" /></div>
             <div class="col-md-9">
             <a href="/author-sal">
             <h4 class="text-dark mb-0"> Sal </h4>
@@ -27,7 +27,7 @@
         <div class="col-lg-6 mb-4">
             <div class="p-4 border rounded">
             <div class="row">
-            <div class="col-md-3 mb-4 mb-md-0"><img alt="Jane" src="http://localhost:4000//assets/images/1651316265583.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="Jane" src="..//assets/images/1651316265583.jpg" class="rounded-circle" height="80" width="80" /></div>
             <div class="col-md-9">
             <a href="/author-jane">
             <h4 class="text-dark mb-0"> Jane </h4>
