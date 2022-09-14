@@ -3,7 +3,7 @@ layout: post
 title:  "How to open a new folder"
 author: jane
 categories: [Technology tutorial ]
-image: assets/images/13.jpg
+image: assets/images/13.webp
 ---
 
 `jekyll new <PATH>` installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called `myblog`. Here are some additional details:

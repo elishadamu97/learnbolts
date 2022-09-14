@@ -3,7 +3,7 @@ layout: post
 title:  "Quadratic equation-examples, steps, methods "
 author: sal
 categories: [ maths]
-image: assets/images/quadratic_equations.jpg
+image: assets/images/quadratic_equations.webp
 tags: [maths]
 ---
 

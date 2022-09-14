@@ -3,7 +3,7 @@ layout: post
 title:  "Quadratic Formula-Equation, Methods, Examples, Steps"
 author: sal
 categories: [ maths ]
-image: assets/images/tutors-what-is-the-quadratic-formula.jpg
+image: assets/images/tutors-what-is-the-quadratic-formula.webp
 tags: [maths]
 tags: [featured]
 ---

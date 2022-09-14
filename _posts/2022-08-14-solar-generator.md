@@ -3,7 +3,7 @@ layout: post
 title:  "DIY solar generator"
 author: jane
 categories: [ do it yourself ]
-image: assets/images/solar_power_illustration.png
+image: assets/images/solar_power_illustration.webp
 tags: [sticky]
 ---
 

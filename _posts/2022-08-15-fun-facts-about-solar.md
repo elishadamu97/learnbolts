@@ -3,7 +3,7 @@ layout: post
 title:  "Top 5 Things You Didn't Know About Solar Energy - Green energy, NASA"
 author: jane
 categories: [ blog ]
-image: assets/images/solarpanel.jpg
+image: assets/images/solarpanel.webp
 tags: [solar]
 seo_title: Five fun facts about solar energy
 seo_description: Everything you need to know about solar energy
@@ -18,14 +18,14 @@ Solar energy is considered to be the cleanest form of energy as it does not not 
 
 It is also energy efficient because of abundant sun light which can be used to charge the batteries.
 
-![solar-energy-clean](../assets/images/Green-solar-panels-make-clean-energy-more-aesthetically-appealing.jpg)
+![solar-energy-clean](../assets/images/Green-solar-panels-make-clean-energy-more-aesthetically-appealing.webp)
 
 ## 2. Solar Energy is renewable
 
 Solar Energy is simply a energy being trapped using a solar panel, which comes from the sun.
 Since the energy from the sun is abundant in nature, it implies that the energy can never run dry, even if it does, it won't in a million years to come.
 
-![RENEWABLE-ENERGY](../assets/images/is-solar-renewable-300x278.jpg)
+![RENEWABLE-ENERGY](../assets/images/is-solar-renewable-300x278.webp)
 
 ## 3. Solar energy is used by NASA
 
@@ -33,7 +33,7 @@ Since the energy from the sun is abundant in nature, it implies that the energy 
 * Power to run the sensors, active heating, cooling and [telemetry](https://stackify.com/telemetry-tutorial/).
 * Power for electrically powered spacecraft propulsion, sometimes called electric propulsion or solar-electric propulsion.
 
-![NASA](../assets/images/83fcacfa5163560414f4df68c6826534.jpg)
+![NASA](../assets/images/83fcacfa5163560414f4df68c6826534.webp)
 
 ## 4. Solar energy has been around since 1839
 
@@ -42,7 +42,7 @@ In 1839 a renowed young Physicist [Edmond Becquerel](https://en.wikipedia.org/wi
 A few decades later A French mathematician [Augustin Mouchot](https://en.wikipedia.org/wiki/Augustin_Mouchot) who was inspired by the Physicist's work, began registering patent for solar-powered engines in the 1860. From Franch to the U.S., inventors were inspired by the patents of the mathematician and filed for patents on solar-powered devices as early as 1888.
 Till today, this technology has been used by innovators all over the world.
 
-![solar-panel-1888](../assets/images/first_solar_array-charles_fritts.jpg)
+![solar-panel-1888](../assets/images/first_solar_array-charles_fritts.webp)
 
 ## 5. You can use solar energy to power an entire home.
 
@@ -50,7 +50,7 @@ Solar energy can actually be used to power an entire home by using solar panels.
 
 Today solar panels are used as second layer in a roof top, thereby adding extract protection to the roof.
 
-![Solar panel](../assets/images/solar-panels.jpg)
+![Solar panel](../assets/images/solar-panels.webp)
 
 
  

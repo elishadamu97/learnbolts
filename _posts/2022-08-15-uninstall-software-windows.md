@@ -3,7 +3,7 @@ layout: post
 title:  "5 steps on how to uninstall any Software on windows 10 | laptop | desktop"
 author: sal
 categories: [ Windows Tutorial ]
-image: assets/images/windows10-laptop.png
+image: assets/images/windows10-laptop.webp
 tags: windows
 ---
 
@@ -18,30 +18,30 @@ Well in this tutorial I will show you how you can uninstall the software or appl
 * Control panel will appear below the windows bar.
 
 
-![Step 1](../assets/images/step1a.jpg)
+![Step 1](../assets/images/step1a.webp)
 
 ### STEP 2: Click on the "CONTROL PANEL"
 
 * Click on it to open.
 
-![step 2](../assets/images/step2.jpg)
+![step 2](../assets/images/step2.webp)
 
 ### STEP 3: Click on "Uninstall a program" under Programs.
 
-![step 3](../assets/images/step3.jpg)
+![step 3](../assets/images/step3.webp)
 
 ### STEP 4: Search for the software you want to uninstall
 * If software name is not on first screen, stroll down to search for it
 * If found, right click on the Software/Application
 * Uninstall or Repair will appear, click on Uninstall.
 
-![step 4a](../assets/images/step4.jpg)
-![ste4b](../assets/images/step4b.jpg)
+![step 4a](../assets/images/step4.webp)
+![ste4b](../assets/images/step4b.webp)
 
 ### STEP 5: Click on uninstall from the windows opened
 > The uninstall tab is not the same for all softwares
 
-![step 5](../assets/images/step5.jpg)
+![step 5](../assets/images/step5.webp)
 
 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "How to earn $1000 from solving Questions on Photostudy - Maths, Physics, Chemistry, Work from home"
 author: sal
 categories: [blog]
-image: assets/images/home-cover-illustration-2.632940a7.png
+image: assets/images/home-cover-illustration-2.632940a7.webp
 tags: [work from home]
 
 ---
@@ -44,7 +44,7 @@ Follow the  [link](https://expert.photostudy.co/new-expert/232r3m3gegn494hdo)  t
 
 Signup using a valid facebook account that has been linked  to an email address. If your facebook has not been linked to an email address, follow the link to see how to link your email to facebook.
 
-![signup-facebook](../assets/images/Screenshot%202022-08-19%20225331.jpg)
+![signup-facebook](../assets/images/Screenshot%202022-08-19%20225331.webp)
 
 
 
@@ -96,7 +96,7 @@ You are expected to pass the test with a minimum of 80%
 
 
 
-![successful-completion](../assets/images/image5-min-1.jpg)
+![successful-completion](../assets/images/image5-min-1.webp)
 
 
 
@@ -112,7 +112,7 @@ After successfully answering a subject you optioned for, you be asked to click o
 
 
 
-![working-page](../assets/images/Screenshot%20(170).png)
+![working-page](../assets/images/Screenshot%20(170).webp)
 
 
 

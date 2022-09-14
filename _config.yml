@@ -1,7 +1,7 @@
 # Site
 name: 'Learn Bolts'
 description: 'Your journey to learning just got closer'
-logo: 'assets/images/logo1.png'
+logo: 'assets/images/logo1.webp'
 favicon: 'assets/images/favicon1.ico'
 url: 'learnbolts.com'
 disqus: 'demowebsite'
@@ -23,7 +23,7 @@ authors:
     sal:
       name:           Sal
       site:           https://www.upwork.com/freelancers/~01f347888f7198ba97
-      avatar:         /assets/images/IMG_20201011_104505_0.jpg
+      avatar:         /assets/images/IMG_20201011_104505_0.webp
       bio:            "Hi there! It's Elisha, the author of some posts on LearnBolts Thanks for reading and subscribing 
                       to my blog. If you haven't subscribed yet, feel free to subscribe to get latest posts about science
                       and innovations. If there is any job relating to Maths, Web development or PCB design, feel free 
@@ -34,7 +34,7 @@ authors:
     jane:
       name:           Jane
       site:           https://www.upwork.com/freelancers/~01f347888f7198ba97
-      avatar:         /assets/images/1651316265583.jpg
+      avatar:         /assets/images/1651316265583.webp
       bio:            "Hi, I am Cyrus, the author of some interesting posts about science and mathematics. Feel free to subscribe to get latest posts"
       email:          adamsfair12@gmail.com
       linkedin:        https://www.linkedin.com/in/elisha-adamu-505552134/

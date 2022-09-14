@@ -2,7 +2,7 @@
 layout: post
 title:  "How did Eratosthenes measure the size of the earth?"
 categories: [do it yourself]
-image: assets/images/5a6a3cdf8a474f68b95e5ea15d660c76.jpg
+image: assets/images/5a6a3cdf8a474f68b95e5ea15d660c76.webp
 tags: DIY
 ---
 
@@ -11,7 +11,7 @@ Hello friends, Today we are going to learn how to measure the circumference of t
 <br>
 <hr style="color: black; font-weight: 20px">
 
-![ruler](../assets/images/ruler.jpg)
+![ruler](../assets/images/ruler.webp)
 <div style="font-size:12px; color:black; font-weight: bold;" > The earth is massive, but you don't need a massive ruler to measure its size. All you need are a few household items--and little bit of geometry!<br> Credit: George Retseck</div> 
 
 ## Key concepts

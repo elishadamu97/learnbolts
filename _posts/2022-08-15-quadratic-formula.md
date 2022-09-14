@@ -3,7 +3,7 @@ layout: post
 title:  "How to proof the quadratic formula | algebra | coolmath | polynomial | science"
 author: sal
 categories: [ maths ]
-image: assets/images/Class-10-Quadratic-Equation-1.jpg
+image: assets/images/Class-10-Quadratic-Equation-1.webp
 tags: [maths]
 ---
 

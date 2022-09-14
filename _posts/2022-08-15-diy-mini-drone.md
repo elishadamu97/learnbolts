@@ -3,7 +3,7 @@ layout: post
 title:  "9 steps to DIY mini drone."
 author: sal
 categories: [ do it yourself ]
-image: assets/images/Best-Mini-Drones-in-2018.jpg
+image: assets/images/Best-Mini-Drones-in-2018.webp
 tags: [DIY]
 tags: [featured]
 ---

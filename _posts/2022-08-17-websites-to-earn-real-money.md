@@ -3,7 +3,7 @@ layout: post
 title:  "5 hot websites to earn $1000 plus monthly - work-from-home, tester, expert, freelancer"
 author: sal
 categories: [blog]
-image: assets/images/earn-money.png
+image: assets/images/earn-money.webp
 tags: [work from home]
 
 ---
@@ -13,7 +13,7 @@ In this article we are going to learn how to earn money simply by solving maths,
 
 ## 1. Photostudy
 
-![Photostudy](../assets/images/Screenshot%202022-08-19%20225331.jpg)
+![Photostudy](../assets/images/Screenshot%202022-08-19%20225331.webp)
 
 This is a platform where experts who are confident about their field can apply to become an expert and as a return, earn real money.
 
@@ -23,7 +23,7 @@ For more information on how to get started, [follow the link](../photostudy-expe
 
 ## 2. Photomath
 
-![Photo math](../assets/images/photomath-intro.jpg)
+![Photo math](../assets/images/photomath-intro.webp)
 
 Photomath is a web platform for individuals who are passionate about solving maths questions and earning real money.
 
@@ -35,7 +35,7 @@ The screening process is quite simple, you will be asked to solve questions base
 
 You will earn $30$ dollars bonus when you finish $3$  of the fields, $10$ dollars for each field.
 
-![$30 bonus](../assets/images/math-proficiency.jpg)
+![$30 bonus](../assets/images/math-proficiency.webp)
 
 To get started, [follow the link](https://portal.photomath.net/invite/P6DYNQ/?utm_source=expert referral&utm_medium=platform&utm_campaign=expert referral code)
 

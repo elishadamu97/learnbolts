@@ -3,7 +3,7 @@ layout: post
 title:  "4 steps to build a wind power from your backyard: Do it Yourself"
 author: sal
 categories: [do it yourself]
-image: assets/images/windvan1.jpg
+image: assets/images/windvan1.webp
 tag: [DIY]
 tags: [featured]
 ---
