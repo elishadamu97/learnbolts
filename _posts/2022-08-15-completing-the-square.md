@@ -4,7 +4,7 @@ title:  "Completing the Square - Quadratic Formula, Equation, Method, Examples"
 author: sal
 categories: [ maths ]
 image: assets/images/completing-square.webp
-tags: [maths]
+tags: [sticky]
 ---
 
 Hey there! Today we are going to solve the following equations using completing the square method.
