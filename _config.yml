@@ -18,7 +18,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+  gems:
+  - jekyll-redirect-from
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-redirect-from
+
 authors:
     sal:
       name:           Sal
