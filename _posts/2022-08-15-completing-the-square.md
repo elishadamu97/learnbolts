@@ -3,7 +3,7 @@ layout: post
 title:  "Completing the Square - Quadratic Formula, Equation, Method, Examples"
 author: sal
 categories: [ maths ]
-image: assets/images/completing-square.jpg
+image: assets/images/completing-square.webp
 tags: [maths]
 ---
 
