@@ -1,0 +1,15 @@
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: Baiduspider-mobile
+Disallow: /
+
+User-agent: *
+Allow: /
+Sitemap: https://learnbolts.com/sitemap.xml
