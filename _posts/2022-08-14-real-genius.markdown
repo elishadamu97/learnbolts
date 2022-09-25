@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Real genius builds powerbank for: laptop-phone-energy bulbs"
+title:  "Real genius builds powerbank-Young engineer"
 categories: [ blog ]
 image: assets/images/0fdaa5db1a9eb36e.webp
 tag: [blog]
@@ -15,17 +15,8 @@ tags: [featured]
 * Robert Nsoh describes to [myjoyonline](https://www.myjoyonline.com/) that the powerbank is intented to charge your laptop, phones with minimum consumption rate.
 
 ## See more photos
-![photo1](../assets/images/64f3cac714b4c842.webp)
+![Photo of Robert Nsoh posing with EcoMini(plus)](../assets/images/64f3cac714b4c842.webp)
 >Photo of Robert Nsoh posing with EcoMini(plus). Credit: [myjoyonline](https://www.myjoyonline.com/)
 
 Source: UGC 
 
-![](../assets/images/e07e4beea87c76ca.jpg)
->Photo of EcoMini(plus). Credit: [myjoyonline](https://www.myjoyonline.com/)
-
-Source: UGC 
-
-## Where to buy a powerbank?
-Follow the link to buy your own laptop powerbank at an affordable price.
-
-**Link**: 

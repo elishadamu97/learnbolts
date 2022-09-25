@@ -34,7 +34,7 @@ Please don't click on the signup link if you have not read the necessary steps.
 
 
 
-Follow the  [link](https://expert.photostudy.co/new-expert/232r3m3gegn494hdo)  to get started....
+[You are one step closer](https://expert.photostudy.co/new-expert/232r3m3gegn494hdo)  to get started....
 
 
 

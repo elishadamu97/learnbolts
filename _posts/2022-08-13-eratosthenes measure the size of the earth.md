@@ -11,7 +11,7 @@ Hello friends, Today we are going to learn how to measure the circumference of t
 <br>
 <hr style="color: black; font-weight: 20px">
 
-![ruler](../assets/images/ruler.webp)
+![using a protractor, a ruler and a cotton](../assets/images/ruler.webp)
 <div style="font-size:12px; color:black; font-weight: bold;" > The earth is massive, but you don't need a massive ruler to measure its size. All you need are a few household items--and little bit of geometry!<br> Credit: George Retseck</div> 
 
 ## Key concepts

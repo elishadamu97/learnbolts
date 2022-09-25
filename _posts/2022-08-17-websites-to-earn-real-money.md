@@ -19,7 +19,7 @@ This is a platform where experts who are confident about their field can apply t
 
 Experts don't need to live their comfort zone, all you need is a laptop, a stable internet connection, and a brain to think fast.
 
-For more information on how to get started, [follow the link](../photostudy-expert/)
+[You can get started today](../photostudy-expert/)
 
 ## 2. Photomath
 
@@ -37,7 +37,7 @@ You will earn $30$ dollars bonus when you finish $3$  of the fields, $10$ dollar
 
 ![$30 bonus](../assets/images/math-proficiency.webp)
 
-To get started, [follow the link](https://portal.photomath.net/invite/P6DYNQ/?utm_source=expert referral&utm_medium=platform&utm_campaign=expert referral code)
+[Get started today](https://portal.photomath.net/invite/P6DYNQ/?utm_source=expertreferralutm_medium=platform&utm_campaign=expertreferralcode)
 
 ## 3. Testerwork
 
@@ -45,7 +45,7 @@ Testerwork is a web platform for developers and testers can earn money by findin
 
 Majorly, an app for testing is pre uploaded and testers are required to download the beta version of the app before it is published to the public.
 
-To sign up as a tester, [click on the link](https://testers.testerwork.com/tester-account/sign-up).
+[Sign up as a tester today](https://testers.testerwork.com/tester-account/sign-up).
 
 **Note: After signing up, you will be asked to answer some questions based on the articles given for you to read**
 

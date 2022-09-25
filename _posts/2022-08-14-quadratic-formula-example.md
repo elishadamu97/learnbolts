@@ -62,4 +62,4 @@ $$\color{red}{x} = \color{cadetBlue}{\frac{5}{3}}
 
 $$\color{red}{x} = \color{cadetBlue}{\frac{5}{3}},  \color{pink}{\frac{-41}{12}}$$
 
-To solve the equation with completing the square method [click on the link](../completing-the-square/)
+Try your hands and [solve the equation with completing the square method](../completing-the-square/)

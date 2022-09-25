@@ -18,30 +18,30 @@ Well in this tutorial I will show you how you can uninstall the software or appl
 * Control panel will appear below the windows bar.
 
 
-![Step 1](../assets/images/step1a.webp)
+![open the control panel](../assets/images/step1a.webp)
 
 ### STEP 2: Click on the "CONTROL PANEL"
 
 * Click on it to open.
 
-![step 2](../assets/images/step2.webp)
+![Click on the control panel](../assets/images/step2.webp)
 
 ### STEP 3: Click on "Uninstall a program" under Programs.
 
-![step 3](../assets/images/step3.webp)
+![Click on uninstall](../assets/images/step3.webp)
 
 ### STEP 4: Search for the software you want to uninstall
 * If software name is not on first screen, stroll down to search for it
 * If found, right click on the Software/Application
 * Uninstall or Repair will appear, click on Uninstall.
 
-![step 4a](../assets/images/step4.webp)
-![ste4b](../assets/images/step4b.webp)
+![Search for software to uninstall](../assets/images/step4.webp)
+![Search for software to uninstall part b](../assets/images/step4b.webp)
 
 ### STEP 5: Click on uninstall from the windows opened
 > The uninstall tab is not the same for all softwares
 
-![step 5](../assets/images/step5.webp)
+![Click on uninstall](../assets/images/step5.webp)
 
 
 
