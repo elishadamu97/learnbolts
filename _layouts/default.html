@@ -3,10 +3,20 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta
+
+  name="description"
+
+  content="Learn Bolts is an online learning platform where users can read science, technology and innovative posts daily
+
+        
+
+">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{page.title}} | {{site.name}}</title>
-
+{% if page.url =='/' %}{{site.url}}{% else %}{{page.url | absolute_url}}{% endif %}
     {% seo %}
+
 
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
 
@@ -27,7 +37,7 @@
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
-    <link rel="canonical" href="https://learnbolts.com"/>
+   
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN8TF2JQZ5"></script>
 <script>
