@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{page.title}} | {{site.name}}</title>
-<link rel="canonical" href="http://learnbolts.com{{ page.url | replace:'index.html','' }}" />
+{% if page.url =='/' %}{{site.url}}{% else %}{{page.url | absolute_url}}{% endif %}
     {% seo %}
 
 
