@@ -7,6 +7,7 @@
     <title>{{page.title}} | {{site.name}}</title>
 
     {% seo %}
+{% if page.url =='/' %}{{site.url}}{% else %}{{page.url | absolute_url}}{% endif %}
 
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
 
@@ -27,7 +28,7 @@
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
-    <link rel="canonical" href="https://learnbolts.com"/>
+   
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN8TF2JQZ5"></script>
 <script>
