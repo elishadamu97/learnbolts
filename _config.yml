@@ -14,9 +14,9 @@ permalink: /:title/
 # Plugins
 plugins: 
   - jekyll-feed
-  
   - jekyll-sitemap
   - jekyll-paginate
+   - jekyll-redirect-from
   - jekyll-seo-tag
   
   
