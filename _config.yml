@@ -12,14 +12,6 @@ include: ["_pages"]
 permalink: /:title/
 
 
----
-title: Jekyll Redirect 301
-redirect_from:
-  - /some/404/https://learnbolts.com/learnbolts.com/
-  - /another/404/http://learnbolts.com/
-permalink: /https://learnbolts.com/
----
-
 # Plugins
 plugins: 
   - jekyll-feed
