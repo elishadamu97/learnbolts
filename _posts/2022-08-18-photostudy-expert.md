@@ -5,6 +5,7 @@ author: sal
 categories: [blog]
 image: assets/images/home-cover-illustration-2.632940a7.webp
 tags: [work from home]
+canonical_url: 'https://learnbolts.com/photostudy-expert/'
 
 ---
 

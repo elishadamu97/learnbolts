@@ -6,6 +6,7 @@ categories: [ maths ]
 image: assets/images/tutors-what-is-the-quadratic-formula.webp
 tags: [maths]
 tags: [featured]
+canonical_url: 'https://learnbolts.com/quadratic-formula-example/'
 ---
 Hi, welcome to [LearnBolts](../index.html). In this tutorial we are are going to use [quadratic formula](../quadratic-formula/) to solve quadratic equations.
 

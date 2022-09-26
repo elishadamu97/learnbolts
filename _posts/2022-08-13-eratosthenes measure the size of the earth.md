@@ -4,6 +4,7 @@ title:  "How did Eratosthenes measure the size of the earth?"
 categories: [do it yourself]
 image: assets/images/5a6a3cdf8a474f68b95e5ea15d660c76.webp
 tags: DIY
+canonical_url: 'https://learnbolts.com/eratosthenes-measure-the-size-of-the-earth/'
 ---
 
 Hello friends, Today we are going to learn how to measure the circumference of the earth based on the appearance of shadow.

@@ -6,6 +6,7 @@ categories: [ do it yourself ]
 image: assets/images/Best-Mini-Drones-in-2018.webp
 tags: [DIY]
 tags: [featured]
+canonical_url: 'https://learnbolts.com/diy-mini-drone/'
 ---
 <img src="https://content.instructables.com/ORIG/FKG/KEPA/J7MF2EK1/FKGKEPAJ7MF2EK1.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=cb833c981fdb7c85908135b8bd0b1ed5" alt="drone">
 <p> <br> Hi Friends,<br> <br> In this project, I am gonna share you the story how I managed to build a simple and cheap mini-drone my own. Everything started when I decided to shop a mini RC drone and one of my friends told me to build one instead of buying one. I can explain you the entire build process in fewer steps.</p>

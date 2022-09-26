@@ -5,6 +5,7 @@ categories: [ blog ]
 image: assets/images/0fdaa5db1a9eb36e.webp
 tag: [blog]
 tags: [featured]
+canonical_url: 'https://learnbolts.com/real-genius/'
 ---
 * A young [Ghanaian](https://en.wikipedia.org/wiki/Ghana) Engineer who happens to be a genius in engineering with the name `Robert Nsoh` builds a powerbank that charges both laptops, phones and energy bulbs.
 

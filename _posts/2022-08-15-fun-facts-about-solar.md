@@ -7,6 +7,7 @@ image: assets/images/solarpanel.webp
 tags: [solar]
 seo_title: Five fun facts about solar energy
 seo_description: Everything you need to know about solar energy
+canonical_url: 'https://learnbolts.com/fun-facts-about-solar/'
 ---
 Solar panels as we have heard of is simply a bluish electronic device that collects [photons](https://www.thoughtco.com/what-is-a-photon-definition-and-properties-2699039) from the sun and converts it into [electrical energy](https://byjus.com/physics/electrical-energy-and-power/).
 

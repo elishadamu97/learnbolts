@@ -5,6 +5,7 @@ author: sal
 categories: [ maths ]
 image: assets/images/Class-10-Quadratic-Equation-1.webp
 tags: [maths]
+canonical_url: 'https://learnbolts.com/quadratic-formula/'
 ---
 
 Hello! have you ever tried solving a quadratic equation using the quadratic formula, and wondered how the formula was proved. 
