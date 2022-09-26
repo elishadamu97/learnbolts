@@ -14,21 +14,21 @@ permalink: /:title/
 ---
 title: Jekyll Redirect 301
 redirect_from:
-  - https://learnbolts.com/quadratic-formula/learnbolts.com/categories.html
-permalink: https://learnbolts.com/quadratic-formula/
+  - /some/404/https://learnbolts.com/quadratic-formula/learnbolts.com/categories.html/
+permalink: /https://learnbolts.com/quadratic-formula/
 ---
 title: Jekyll Redirect 301
 redirect_from:
-  - https://learnbolts.com/websites-to-earn-real-money/learnbolts.com/categories.html
-permalink: https://learnbolts.com/websites-to-earn-real-money/
+  - /some/404/https://learnbolts.com/websites-to-earn-real-money/learnbolts.com/categories.html
+permalink: /https://learnbolts.com/websites-to-earn-real-money/
 ---
 
 ---
 title: Jekyll Redirect 301
 redirect_from:
-  - https://learnbolts.com/learnbolts.com/
-  - http://learnbolts.com/
-permalink: https://learnbolts.com
+  - /some/404/https://learnbolts.com/learnbolts.com/
+  - /another/404/http://learnbolts.com/
+permalink: /https://learnbolts.com/
 ---
 
 # Plugins
