@@ -11,6 +11,18 @@ mailchimp-list: 'https://gmail.us8.list-manage.com/about?u=f5b50f097de3aa95d2a28
 include: ["_pages"]
 permalink: /:title/
 
+---
+title: Jekyll Redirect 301
+redirect_from:
+  - learnbolts.com/quadratic-formula/learnbolts.com/categories.html
+permalink: https://learnbolts.com/quadratic-formula/
+---
+title: Jekyll Redirect 301
+redirect_from:
+  - learnbolts.com/websites-to-earn-real-money/learnbolts.com/categories.html
+permalink: learnbolts.com/websites-to-earn-real-money/
+---
+
 # Plugins
 plugins: 
   - jekyll-feed
