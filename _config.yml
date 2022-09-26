@@ -2,7 +2,7 @@
 name: 'Learn Bolts'
 
 logo: 'assets/images/logo1.webp'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon'
 url: 'learnbolts.com'
 disqus: 'demowebsite'
 email: 'elishadamu97@gmail.com'
@@ -17,7 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-
+  - jekyll-redirect-from
   - jekyll-seo-tag
   
   
