@@ -5,7 +5,6 @@ author: sal
 categories: [ maths ]
 image: assets/images/completing-square.webp
 tags: [sticky]
-canonical_url: 'https://learnbolts.com/completing-the-square/'
 ---
 
 Hey there! Today we are going to solve the following equations using completing the square method.

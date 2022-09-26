@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 permalink: "/contact.html"
-canonical_url: 'https://learnbolts.com/contact.html'
 ---
 
 <form

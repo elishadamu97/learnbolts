@@ -5,7 +5,6 @@ author: sal
 categories: [ Windows Tutorial ]
 image: assets/images/windows10-laptop.webp
 tags: windows
-canonical_url: 'https://learnbolts.com/uninstall-software-windows/'
 ---
 
 Do you have a software in your laptop or desktop that is making your pc heat up really fast?

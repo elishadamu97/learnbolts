@@ -6,7 +6,6 @@ categories: [do it yourself]
 image: assets/images/windvan1.webp
 tag: [DIY]
 tags: [featured]
-canonical_url: 'https://learnbolts.com/wind-power-from-your-backyard/'
 ---
 ## Backyard Wind Power
 

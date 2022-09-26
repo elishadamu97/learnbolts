@@ -5,7 +5,6 @@ author: sal
 categories: [ maths]
 image: assets/images/quadratic_equations.webp
 tags: [maths]
-canonical_url: 'https://learnbolts.com/quadratic-equation/'
 ---
 
 What is a quadratic equation?

@@ -5,7 +5,6 @@ author: sal
 categories: [ Windows Tutorial ]
 image: assets/images/zip-file.webp
 tags: windows
-canonical_url: 'https://learnbolts.com/extract-zip-file/'
 ---
 In this tutorial, we are going to give 7 steps on how to extract a ZIP file and save the content(s) in your laptop.
 

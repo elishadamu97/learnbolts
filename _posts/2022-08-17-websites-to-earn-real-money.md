@@ -5,7 +5,6 @@ author: sal
 categories: [blog]
 image: assets/images/earn-money.webp
 tags: [work from home]
-cononical_url: 'https://learnbolts.com/websites-to-earn-real-money/'
 ---
 Have you ever wondered how people make lots of money just by working from home? Well the answer is very simple, these people invest their time working as maybe a math expert in one educational website, a tester platform or a freelancer on fiverr.
 
