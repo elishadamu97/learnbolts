@@ -23,6 +23,13 @@ redirect_from:
 permalink: learnbolts.com/websites-to-earn-real-money/
 ---
 
+---
+title: Jekyll Redirect 301
+redirect_from:
+  - http://learnbolts.com/
+permalink: learnbolts.com
+---
+
 # Plugins
 plugins: 
   - jekyll-feed
