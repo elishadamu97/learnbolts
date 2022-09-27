@@ -10,8 +10,7 @@
 
     <title>{{page.title}} | {{site.name}}</title>
 
-    <link rel="canonical" href="{{site.url}}{{page.url | replace: 'index.html',''}}">
-
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
     {% seo %}
 
 
