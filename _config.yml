@@ -4,7 +4,7 @@ name: 'Learn Bolts'
 logo: 'assets/images/logo1.webp'
 favicon: 'assets/images/favicon.ico'
 url: 'https://learnbolts.com'
-baseurl: /learnbolts
+baseurl: learnbolts
 disqus: 'demowebsite'
 email: 'elishadamu97@gmail.com'
 mailchimp-list: 'https://gmail.us8.list-manage.com/about?u=f5b50f097de3aa95d2a288c84&id=2e40456faa'
