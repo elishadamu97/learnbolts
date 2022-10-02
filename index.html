@@ -12,7 +12,6 @@ description: "A website to learn science and read innovative blogs"
 {% if page.url == "/" %}
     
     
-    
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
     
@@ -39,9 +38,9 @@ description: "A website to learn science and read innovative blogs"
                 </span>                   
         </small>
         <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
-        </small>
-    </div>
+            {{ latest_post.date | date: '%b 
+    %d, %Y' }}
+        </small></div>
     </div>
     </div>
     </div>
@@ -75,7 +74,6 @@ description: "A website to learn science and read innovative blogs"
                     </small>
                 </div>
             </div>
-        
         <!-- third latest post -->
         {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
@@ -133,6 +131,9 @@ description: "A website to learn science and read innovative blogs"
     </div>
     
 </div>
+    <!-- Native ads -->
+    <script async="async" data-cfasync="false" src="//pl17762068.profitablegatetocontent.com/f9fdc76bdbc382cb892a790fcb5fda3a/invoke.js"></script>
+<div id="container-f9fdc76bdbc382cb892a790fcb5fda3a"></div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 

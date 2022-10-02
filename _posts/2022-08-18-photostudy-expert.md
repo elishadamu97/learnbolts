@@ -7,7 +7,6 @@ image: assets/images/home-cover-illustration-2.632940a7.webp
 tags: [work from home]
 
 ---
-
 Have you been wondering how you can make money solving maths questions? Well in this post am going to work you through on how you can earn instant money solving questions for student anytime anywhere and get paid as a study expert.
 
 
@@ -35,7 +34,6 @@ Please don't click on the signup link if you have not read the necessary steps.
 
 
 [You are one step closer](https://expert.photostudy.co/new-expert/232r3m3gegn494hdo)  to get started....
-
 
 
 ### Step 2 
@@ -69,7 +67,6 @@ Next you will be asked to a answer 30 question about photostudy policies, and th
 
 
 ### Step 5
-
 
 
  Ater successfully answering the 30 questions, you will be directed to a page where you can choose a subject of your choice. I will advice you start with a question you are most good at, then you get familiar with the platform.
